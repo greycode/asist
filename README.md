@@ -12,7 +12,8 @@
   <a href="https://asist-agent.com">Website</a> ·
   <a href="https://github.com/nyosegawa/asist/releases/latest">Download</a> ·
   <a href="https://asist-agent.com/en/docs/">Documentation</a> ·
-  <a href="README.ja.md">日本語</a>
+  <a href="README.ja.md">日本語</a> ·
+  <a href="README.zh.md">简体中文</a>
 </p>
 
 <p align="center">
